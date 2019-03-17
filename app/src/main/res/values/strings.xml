@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MLIL</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="notregistered">Not Registered?</string>
+    <string name="register">register</string>
+    <string name="confirmpassword">Confirm Password</string>
+    <string name="login1">Login</string>
+</resources>
